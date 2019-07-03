@@ -64,8 +64,8 @@ def baliho():
 		print 'ooO--(_)--Ooo'.center(44)
 		print ' ' + W
 		print ('O S I F').center(44)
-		print (G + '     Author By Fajar Id')
-		print (W + '     [' + G +' Buka Informasi Facebook'+ W + ']')
+		print (G + '            Author By Fajar Id')
+		print (W + '       [' + G +' Buka Informasi Facebook'+ W + ' ]')
 		print ' '
 ####################################################################
 #		    Print In terminal
